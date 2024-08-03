@@ -1,3 +1,4 @@
-let a = 15
+let age = 15;
+let name = "Eldor";
 
-console.log("Wassup world, I'm " + a + " y.o");
+console.log("Wassup world, my name is " + name + " and I'm " + age + " y.o");
